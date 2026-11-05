@@ -9,8 +9,8 @@ I used ChatGPT, and Claude AI for this assignment. I have included the links to 
 
 1. https://claude.ai/share/230819f8-8f0e-4a1e-955a-2cc35434bf61
  Prompt used: What failure modes occur in a LoRaWAN sensor network at the device, radio, gateway, backhaul and ingestion layers? For each, what would it look like in the data?
-2. https://chatgpt.com/s/p\_6aec88d405688191ad98cc060115c2c2
-Prompt used: Compare gateway placement options for a 30 km² savanna with a rocky ridge to the      north, covering fixed sensors and moving collars. Which assumptions would      a site survey need to confirm?
+2. https://chatgpt.com/share/6aed00da-2ad0-83ea-9bf3-02c02a558070
+Prompt used: Compare gateway placement options for a 30 km² savanna with a rocky ridge to the north, covering fixed sensors and moving collars. Which assumptions would a site survey need to confirm?
 
 3. https://chatgpt.com/share/6aecaee2-4ba4-83e9-b623-0667a12b6fb6
 Prompt used: I will provide four CSV files containing data from IoT sensor-network deployment. Examine the four CSV files, understand their structures, relationships, data types, and contents, and develop a Python script to perform a comprehensive quality and operational analysis of the sensor network. The objective is to identify reporting problems, device performance issues, connectivity problems, data inconsistencies, and potential equipment anomalies.
