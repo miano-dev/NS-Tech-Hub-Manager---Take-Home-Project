@@ -1,0 +1,17 @@
+device_id,severity,flag,evidence
+C-04,high,gps_zero_coordinate,"47.3% of collar messages have (0, 0) coordinates"
+C-06,high,battery_downtrend,First-to-last decile median battery change -0.16 V
+SM-03,medium,low_reporting_completeness,67.9% of scheduled uplinks in 42-day window
+SM-03,high,battery_downtrend,First-to-last decile median battery change -0.58 V
+SM-05,high,report_interval_too_slow,Median interval 60.0 min; expected 15.0 min
+SM-05,high,low_reporting_completeness,25.0% of scheduled uplinks in 42-day window
+SM-06,critical,impossible_sensor_sentinel,"2079 rows contain an absolute sensor value above 1,000,000"
+SM-07,high,report_interval_too_slow,Median interval 60.0 min; expected 15.0 min
+SM-07,high,low_reporting_completeness,22.6% of scheduled uplinks in 42-day window
+SM-07,medium,weak_expected_gateway_path,Only 8.1% of gateway receptions came from expected gateway GW-02
+SM-08,high,low_reporting_completeness,55.3% of scheduled uplinks in 42-day window
+WS-02,medium,rainfall_flatline_check,4020 rainfall observations; all are zero
+WS-03,medium,firmware_outlier_in_register,Registered 3.1.0; modal firmware for Barani MeteoHelix IoT Pro is 3.2.0
+SM-05,medium,firmware_outlier_in_register,Registered 1.0.9; modal firmware for SenseCAP S2105 is 2.3.1
+SM-07,medium,firmware_outlier_in_register,Registered 1.0.9; modal firmware for SenseCAP S2105 is 2.3.1
+WS-03,medium,device_register_stale_after_maintenance,Maintenance says updated to 3.2.0 on 2026-03-17; register says 3.1.0

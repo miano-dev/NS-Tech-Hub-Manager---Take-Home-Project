@@ -1,0 +1,11 @@
+{
+  "source_rows": 64773,
+  "unique_uplinks": 47035,
+  "duplicate_gateway_receptions_removed": 17738,
+  "date_start_utc": "2026-03-02T00:00:00+00:00",
+  "date_end_exclusive_utc": "2026-04-13T00:00:00+00:00",
+  "device_count": 21,
+  "gateway_count": 2,
+  "anomaly_flags": 16,
+  "critical_flags": 1
+}
