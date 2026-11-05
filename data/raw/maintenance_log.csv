@@ -1,0 +1,14 @@
+date,device_id,action
+2026-03-04,GW-01,Routine check. Solar panel cleaned. Battery 13.1 V at 10:00.
+2026-03-04,WS-01,Routine check. Radiation shield cleaned.
+2026-03-06,C-03,Collar checked during dipping. Strap OK.
+2026-03-12,SM-03,Plot 3 fence repaired after last night's storm. Node not inspected.
+2026-03-13,SM-08,Node knocked over by elephants. Reinstalled on a shorter post (original post broken).
+2026-03-17,WS-01,Battery pack replaced (scheduled).
+2026-03-17,WS-03,Firmware updated from 3.1.0 to 3.2.0 at the vendor's request.
+2026-03-18,WL-01,Reeds cleared around the sensor mount.
+2026-03-20,SM-06,Porcupine diggings around plot 6. Node not inspected.
+2026-03-21,GW-02,Site reported missing data. Gateway restarted by field team; no fault found.
+2026-03-26,C-02,Collar strap tightened during dipping.
+2026-04-02,GW-01,Gateway found off at 07:30 local time; came back on its own by 09:00. No action.
+2026-04-07,SM-01,Routine check. Probe and enclosure OK.

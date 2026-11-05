@@ -1,0 +1,22 @@
+device_id,device_type,model,firmware_version,install_date,latitude,longitude,location_description,expected_gateway
+GW-01,gateway,Kerlink iStation,6.1.4,2026-01-15,0.37918,36.78374,"Northern ridge, solar mast",
+GW-02,gateway,Kerlink iStation,6.1.4,2026-01-15,0.33487,36.79901,Southern boundary near access road,
+SM-01,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.36923,36.76308,Restoration plot 1 (north-west slope),GW-01
+SM-02,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.36561,36.77655,Restoration plot 2 (north slope),GW-01
+SM-03,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.37104,36.79452,Restoration plot 3 (north-east slope),GW-01
+SM-04,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.35205,36.76577,Restoration plot 4 (west valley),GW-01
+SM-05,soil_moisture,SenseCAP S2105,1.0.9,2026-01-20,0.35476,36.78463,Restoration plot 5 (central valley),GW-02
+SM-06,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.34934,36.8026,Restoration plot 6 (east valley),GW-02
+SM-07,soil_moisture,SenseCAP S2105,1.0.9,2026-01-20,0.36109,36.77386,Restoration plot 7 (lower north slope),GW-02
+SM-08,soil_moisture,SenseCAP S2105,2.3.1,2026-01-20,0.3421,36.79002,Restoration plot 8 (south-central),GW-02
+WS-01,weather,Barani MeteoHelix IoT Pro,3.2.0,2026-01-18,0.37782,36.78194,"Ridge, next to GW-01 mast",GW-01
+WS-02,weather,Barani MeteoHelix IoT Pro,3.2.0,2026-01-18,0.35521,36.78014,Central valley,GW-01
+WS-03,weather,Barani MeteoHelix IoT Pro,3.1.0,2026-01-19,0.33848,36.79631,"South, near access road",GW-02
+WL-01,water_level,Milesight EM500-UDL,1.4,2026-01-21,0.35295,36.77026,"Seasonal river, upstream crossing",GW-01
+WL-02,water_level,Milesight EM500-UDL,1.4,2026-01-21,0.3516,36.79541,"Seasonal river, downstream culvert",GW-02
+C-01,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
+C-02,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
+C-03,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
+C-04,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
+C-05,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
+C-06,gps_collar,Digital Matter Oyster3,2.7,2026-02-10,0.34481,36.76847,"Cattle herd, night boma (collar fitted on animal)",GW-02
