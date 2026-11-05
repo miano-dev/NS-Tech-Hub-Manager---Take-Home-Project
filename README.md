@@ -210,7 +210,7 @@ AI-assisted tools were used as part of the research, drafting, coding support (c
 
 
 
-Further details and supporting evidence are provided in `AI\_USE.md` and the `ai-conversations/` directory.
+Further details and supporting evidence are provided in  the `ai-conversations/` directory.
 
 
 
